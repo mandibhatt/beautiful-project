@@ -8,16 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://mandibhatt.github.io/lab4"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: My New Data Science Project
+title: All About Mandi Bhatt
 
 # Short description of your site
-description: Here's the new description of my project
+description: I am a current junior at the George Washington University. Come learn a little bit more about me. 
 
 # --- Navigation bar options --- #
 
@@ -41,13 +41,12 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
+author: mandibhatt
+  name: Mandi Bhatt
+  email: "mandibhatt@gwu.edu"
+  github: mandibhatt
   twitter: yourtwitter
-#  linkedin: "pub/dean-attali/8/946/143"
+#  linkedin: "https://www.linkedin.com/in/mandi-bhatt-001413158/"
 #  stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
