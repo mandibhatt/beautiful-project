@@ -36,7 +36,7 @@ navbar-links:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
-  New page: newpage.md 
+  New page: 
 
 # --- Footer options --- #
 
